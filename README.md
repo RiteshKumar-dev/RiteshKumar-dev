@@ -7,9 +7,9 @@ Mern Stack Developer...
 Hi! I'm a second-year BCA student with a deep passion for web development. Currently, I'm honing my skills with the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js. Building web applications and exploring new technologies to enhance my skills is something I genuinely enjoy. I'm currently interning at Webmobril Technology as a Full Stack Developer, where I am gaining hands-on experience and contributing to exciting projects. I'm eager to connect with fellow developers, learn from experienced professionals, and find opportunities to grow in the tech industry. Outside of tech, I'm a tea lover and an avid actor who has spent college days exploring theatre...
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://riteshdevportfolio.netlify.app)
+* 🖥️  See my portfolio at [My Portfolio](https://developerportfolio01.netlify.app)
 * ✉️  You can contact me at [riteshkumar555sah@gmail.com](mailto:riteshkumar555sah@gmail.com)
-* 🚀  I'm currently working on [MyApp](http://riteshdev-bookingapp.netlify.app/)
+* 🚀  I'm currently working on [MyApp](https://developershahapartments01.netlify.app)
 * 🧠  I'm learning Nextjs
 * 🤝  I'm open to collaborating on Booking App, Social Media App
 
