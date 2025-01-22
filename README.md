@@ -21,34 +21,44 @@ I’m currently interning at **Webmobril Technology** as a Full Stack Developer,
 ## 🛠️ Skills  
 
 ### Programming Languages  
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-00599C?logo=c&logoColor=white&style=for-the-badge" alt="C" />
+  <img src="https://img.shields.io/badge/-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+</p>
 
 ### Frontend Development  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux" />
+  <img src="https://img.shields.io/badge/-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" />
+</p>
 
 ### Backend Development  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
+</p>
 
 ### Databases  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase" />
+</p>
 
 ### Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)  
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat-square)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" alt="Google Cloud" />
+</p>
 
 ---
 
