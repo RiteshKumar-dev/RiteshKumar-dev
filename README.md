@@ -1,6 +1,6 @@
 <!-- Animated header GIF -->
 <p align="center">
-  <img src="https://media.lordicon.com/icons/wired/flat/743-web-code.gif" width="150" alt="animated-header" />
+  <img src="https://media.lordicon.com/icons/wired/flat/743-web-code.gif" width="100%" alt="animated-header" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ritesh Kumar Sah</h1>
