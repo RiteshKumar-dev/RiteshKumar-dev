@@ -1,7 +1,8 @@
 <!-- Animated header GIF -->
 <p align="center">
-  <img src="[https://media.lordicon.com/icons/wired/flat/743-web-code.gif](https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif)" width="100%" height="300" alt="animated-header" />
+  <img src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" width="100%" height="300" alt="animated-header" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Ritesh Kumar Sah</h1>
