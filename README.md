@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.lordicon.com/aycieyht.json)](https://cdn.lordicon.com/aycieyht.json)
+[![MasterHead](https://media.lordicon.com/icons/wired/flat/743-web-code.gif)]([https://cdn.lordicon.com/aycieyht.json](https://media.lordicon.com/icons/wired/flat/743-web-code.gif))
 <h1 align="center">Hi 👋, I'm Ritesh Kumar Sah</h1>
 <h3 align="center">A passionate Frontend Software Engineer & Developer from India</h3>
 <video width="400" autoplay loop muted playsinline>
